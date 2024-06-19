@@ -1,0 +1,16 @@
+Summary
+-------------------
+1. Firstly , Loaded the Data into Jupyter Notebook
+2. Done Basic Inspection (Like info,describe etc)
+3. Checked for missing values ,and handled using mean and mode
+4. Removed duplicate rows
+5. Corrected email using professional format
+6. Cleaned name field by removing noise
+7. Standardise the date format to YYYY-MM-DD
+8. Corrected department name
+9. Handled salary by creating a range
+
+Assumptions
+------------
+1. While handling data mean is used for numerical column and mode for categorical column
+2. Created salary range in between 30000 and 2000000
